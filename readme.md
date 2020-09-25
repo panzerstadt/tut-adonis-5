@@ -1,0 +1,1 @@
+stopped at 5:32 of adonisjs tour https://preview.adonisjs.com

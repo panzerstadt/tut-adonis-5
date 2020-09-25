@@ -1,0 +1,1 @@
+https://adonisjs.com/docs/4.1/folder-structure#_app_directories

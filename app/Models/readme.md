@@ -1,0 +1,1 @@
+a model is a way to map to a database table from your codebase
